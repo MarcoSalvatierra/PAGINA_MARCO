@@ -132,13 +132,13 @@ body{
     flex-wrap: wrap; /* Permitir el ajuste de línea */
     justify-content: center;
     gap: 20px;
-    background-image: url('Imagenes/background.jpg'); /* Ruta de la imagen de fondo */
+    background-image: url('imagenes/background.jpg'); /* Ruta de la imagen de fondo */
 
 }
 
 .profile-card {
 
-    background-image: url('Imagenes/banner.jpg');
+    background-image: url('imagenes/banner.jpg');
     border-radius: 8px;
     padding: 20px;
     text-align: center;
