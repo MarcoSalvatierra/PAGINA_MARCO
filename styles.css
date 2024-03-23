@@ -240,7 +240,7 @@ footer{
 .container{
     width: 400px;
     padding: 20px;
-    background-image: url('Imagenes/banner.jpg');
+    background-image: url('imagenes/banner.jpg');
     border-radius: 10px;
     box-shadow: 0 0 50px;
     color: white;
